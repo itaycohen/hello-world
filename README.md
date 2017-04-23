@@ -1,2 +1,5 @@
 # hello-world
-first project ih github
+first project in github
+
+Hello 
+bla bla bla
